@@ -6,15 +6,27 @@
 
 1. S'agit il de tes premiers jours dans l'entreprise ? (Si non, précise la date d'entrée)
 
+Non je suis en entreprise depuis le 26 Aout 2024
+
 2. Décris comment se déroule la communication avec ton tuteur. (fréquence, valeur de l'aide ajoutée)
+
+Bonne fréquence, j'ai souvent des retours mais pas spécialement d'aide vu que mon tuteur est pas dev
 
 3. Décris ta mission actuelle au sein de l'entreprise
 
-4. Qu'est ce qui a bien fonctionné en terme de communication avec ton équipe ?
+Actuellement je dois refaire l'interface utilisateurs de la web app, et je dois mettre à jours les méthodes de calcul des notes QVT
 
-5. Qu'est ce qui n'a pas bien fonctionné en terme de communication avec le reste de l'équipe ?
+5. Qu'est ce qui a bien fonctionné en terme de communication avec ton équipe ?
 
-6. Quelle(s) proposition(s) pourrais tu faire pour améliorer ton intégration dans l'équipe ?
+/////////////////////////////////////////////////////////////////////////////////////
+
+6. Qu'est ce qui n'a pas bien fonctionné en terme de communication avec le reste de l'équipe ?
+
+/////////////////////////////////////////////////////////////////////////////////////
+
+7. Quelle(s) proposition(s) pourrais tu faire pour améliorer ton intégration dans l'équipe ?
+
+/////////////////////////////////////////////////////////////////////////////////////
 
 ## Expérience technique
 
@@ -27,6 +39,8 @@
 4. La plus grosse difficulté (echec ou perte de temps) ?
 
 5. Quel langage as tu le plus utilisé ?
+
+Javascript
 
 6. Quel design pattern as tu pu identifier ?
 
